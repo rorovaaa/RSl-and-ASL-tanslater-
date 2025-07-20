@@ -53,10 +53,11 @@ pip install -r requirements.txt
 Запуск приложения
 bash
 python main.py
+
+
+
 🧩 Структура проекта
 
-
-text
 ├── configs/                  # Конфигурационные файлы
 │   ├── config.json           # Конфиг для RSL
 │   └── lastconfig.json       # Конфиг для ASL
